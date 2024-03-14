@@ -1,0 +1,2 @@
+1)toi check lai neu co 2 san pham van add thi phai cong dong lai vs nhau viet bang java
+2)tang san pham quantity check lai phan do vs lam xong phan do 
